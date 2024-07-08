@@ -1,4 +1,4 @@
-Hi,:wave: my name is Adira Sklar!
+Hi! My name is Adira Sklar!
 I am a passionate problem solver, who embraces creativity both in the realm of user interface design 
 and when crafting innovative backend logic. 
 I am an extremely hard worker and a lifelong, eager learner. 
